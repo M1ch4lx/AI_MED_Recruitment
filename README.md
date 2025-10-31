@@ -2,7 +2,7 @@
 
 ## Solution file
 
-All code with brief description is inside ```cardiomegaly.ipynb```.
+All code with brief description is inside ```cardiomegaly.ipynb``` notebook file.
 
 ## Setup python evnironment
 
